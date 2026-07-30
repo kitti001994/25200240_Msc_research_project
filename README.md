@@ -1,5 +1,4 @@
-# Kitti Pinter
-# SN: 25200240
+Kitti Pinter - SN: 25200240
 
 # ST-GCN + FiLM for fMRI-based ASD classification
 
